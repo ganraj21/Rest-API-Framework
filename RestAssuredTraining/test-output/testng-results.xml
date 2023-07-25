@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-25T11:52:59 IST" name="Default suite" finished-at="2023-07-25T11:53:08 IST" duration-ms="9473">
+    <groups>
+    </groups>
+    <test started-at="2023-07-25T11:52:59 IST" name="Default test" finished-at="2023-07-25T11:53:08 IST" duration-ms="9473">
+      <class name="day2.DiffWaysToCreatePostRequestBody">
+        <test-method signature="testPostusingHAshMap()[pri:1, instance:day2.DiffWaysToCreatePostRequestBody@51e69659]" started-at="2023-07-25T11:52:59 IST" name="testPostusingHAshMap" finished-at="2023-07-25T11:53:08 IST" duration-ms="9321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostusingHAshMap -->
+      </class> <!-- day2.DiffWaysToCreatePostRequestBody -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
